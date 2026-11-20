@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Khujand%2C%20Tajikistan-blue?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/🎓-High%20School%20%E2%80%A2%20Class%20of%202026-blue?style=flat-square" alt="Class of 2026" />
+  <img src="https://img.shields.io/badge/📍-Tashkent%2C%20Uzbekistan-blue?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/🎓-INHA%20University%20in%20Tashkent%20%E2%80%A2%20CS%20Freshman-blue?style=flat-square" alt="INHA University in Tashkent • CS Freshman" />
 </p>
 
 ---
@@ -33,6 +33,10 @@
   Swap "repo=" for any project you want to feature, or add more <a> blocks.
 -->
 <p align="center">
+  <a href="https://github.com/itsamirkhon/EMBER">
+    <img src="https://github-readme-stats-extended.vercel.app/api/pin/?username=itsamirkhon&repo=EMBER&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF" alt="EMBER Card" />
+  </a>
+
   <a href="https://github.com/ibrohim-b/minesweeper-cli">
     <img src="https://github-readme-stats-extended.vercel.app/api/pin/?username=ibrohim-b&repo=minesweeper-cli&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF" alt="Minesweeper CLI Card" />
   </a>
@@ -52,10 +56,24 @@
 <h3 align="center"> 🏆 Hackathons & Competitions </h3>
 <table align="center">
     <tr>
-        <th>Oranization</th>
+        <th>Organization</th>
         <th>Event</th>
         <th>Result</th>
         <th>Year</th>
+    </tr>
+    <tr>
+        <td>
+        <img align="absmiddle" src="https://img.shields.io/badge/IT_Park_%C3%97_AI_Alliance-0D1117?style=for-the-badge" alt="National AI Hackathon" />
+        </td>
+        <td>
+        National AI Hackathon (Tashkent)
+        </td>
+        <td>
+        🥉 3rd place
+        </td>
+        <td>
+        2026
+        </td>
     </tr>
     <tr>
         <td>
